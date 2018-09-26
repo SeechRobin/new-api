@@ -13,9 +13,8 @@ See requirements.txt for full list of backend dependencies
 
 ```
 mkdir backend
-git clone http://dms-submissions.customappsteam.co.uk/assessments/robinm.git
-cd robinm
-git checkout backend
+git clone https://github.com/SeechRobin/news-api/
+
 
 source venv/bin/activate
 cd pressford
