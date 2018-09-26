@@ -1,0 +1,17 @@
+click==6.7
+Django==1.11.12
+djangorestframework==3.8.2
+djangorestframework-simplejwt==3.2.3
+Flask==0.12.2
+itsdangerous==0.24
+Jinja2==2.10
+MarkupSafe==1.0
+pbr==4.0.2
+PyJWT==1.6.1
+pytz==2018.4
+six==1.11.0
+stevedore==1.28.0
+virtualenv==15.2.0
+virtualenv-clone==0.3.0
+virtualenvwrapper==4.8.2
+Werkzeug==0.14.1
