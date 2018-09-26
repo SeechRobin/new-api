@@ -1,9 +1,7 @@
 # News Backend
 
 
-# Set up
 
-### Backend
 
 #### Requirements
 
