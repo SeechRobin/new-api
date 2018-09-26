@@ -44,6 +44,6 @@ Replace :id with the appopriate id from DB
 
 ### Usage
 
-Admin/Superusers and publisher will login to the backend on [http://localhost:8000/admin/](http://localhost:8000/admin/) to create, update and delete news articles (http://localhost:3000/) to read articles, like and comment (in the future)
+Admin/Superusers and publisher will login to the backend on [http://localhost:8000/admin/](http://localhost:8000/admin/) to create, update and delete news articles.
 
 To add a news article on the backend go to News under News_Api and Users can be added under Authorization and Authenitcation.
